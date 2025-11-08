@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexis Campechano<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <br>
 
-<hr>
+
 
 ```
 💻 I’m a junior developer and Software Engineering student
@@ -13,7 +13,7 @@
 🚀 Focused on improving my coding skills through projects and constant learning
 💡 Passionate about creating software that solves real problems
 ```
-<hr>
+
 <!-- STACK -->
 <div align="center" width="100">
   <h1>🛠️ My Skills</h1>
